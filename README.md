@@ -36,4 +36,10 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/llore0/llore0/blob/output/github-contribution-grid-snake.svg)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/llore0/llore0/output/snake.svg" alt="Snake animation" />
+
+###
