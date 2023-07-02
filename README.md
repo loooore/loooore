@@ -36,4 +36,4 @@
   </a>
 </div>
 
-![snake gif](https://github.com/llore0/llore0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/llore0/llore0/blob/output/github-contribution-grid-snake.svg)
