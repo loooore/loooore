@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  - 📫 Contato **lorenzo.toledo789@gmail.com**
+  • <a src="https://mail.google.com/mail/u/1/#inbox">📫 Contato</a>
 </div>
 
 ###
