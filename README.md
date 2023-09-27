@@ -1,4 +1,5 @@
-<h1 align="center">Olá 👋! Meu nome é Lorenzo Toledo.</h2>
+<h1 align="center">Olá 👋!</h1>
+<h1 align="center">Eu sou o Lorenzo!</h1>
 
 ###
 
