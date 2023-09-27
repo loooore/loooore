@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <p>Contanto --> lorenzo.toledo789@gmail.com</p>
+  - 📫 Contato **lorenzo.toledo789@gmail.com**
 </div>
 
 ###
