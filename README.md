@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="mailto:lorenzo.toledo789@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="300" height="50">
+  <a href="mailto:lorenzo.toledo789@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="20" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
