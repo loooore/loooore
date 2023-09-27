@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/2825711.gif" height="150" alt="stats graph"  />
+  <img src="https://wallpaperaccess.com/full/2825711.gif" height="500" alt="stats graph"  />
 </div>
 
 ###
