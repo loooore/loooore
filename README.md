@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  • 📫 Contato <a href="mailto:lorenzo.toledo789@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:lorenzo.toledo789@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="300"></a>
 </div>
 
 ###
