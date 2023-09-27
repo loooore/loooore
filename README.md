@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋!</h1>
-<h1 align="center">Eu sou o Lorenzo!</h1>
+<h3 align="center">Eu sou o Lorenzo!</h3>
 
 ###
 
