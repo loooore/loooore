@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  • <a src="https://mail.google.com/mail/u/1/#inbox">📫 Contato</a>
+  <a src="a">•📫 Contato</a>
 </div>
 
 ###
