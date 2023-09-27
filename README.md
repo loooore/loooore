@@ -1,9 +1,9 @@
-<h1 align="center" color="black">Olá 👋! Eu sou o Lorenzo!</h1>
+<h1 align="center">Olá 👋! Eu sou o Lorenzo!</h1>
 
 ###
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/2825711.gif" height="400" width="1000" alt="stats graph"  />
+  <img src="https://wallpaperaccess.com/full/2825711.gif" height="400" width="1000" alt="gif"  />
 </div>
 
 ###
