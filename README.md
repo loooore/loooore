@@ -1,4 +1,4 @@
-###Olá 👋! Eu sou o Lorenzo!
+<h1 align="center">Olá 👋! Eu sou o <strong>Lorenzo</strong></h1>
 
 ###
 
