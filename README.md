@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋!</h1>
-<h3 align="center">Eu sou o Lorenzo!</h3>
+<h1 align="center" color="black">Olá 👋! Eu sou o Lorenzo!</h1>
 
 ###
 
