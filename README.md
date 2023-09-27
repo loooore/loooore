@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <a src="a">•📫 Contato</a>
+  - 📫 Contato **Lorenzo**
 </div>
 
 ###
