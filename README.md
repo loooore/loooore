@@ -3,7 +3,18 @@
 </div>
 
 <h2 style="color: #00AB26FF;">About me</h2>
-<p style="color: #00AB26FF;">Hello! I'm Lorenzo. I'm a data analysis intern at Huawei in Brasília. Currently, I'm in my fourth semester of Computer Science, focusing on developing AI technologies. I'm passionate about leveraging data to create impactful solutions.</p>
+<p style="color: #00AB26FF; font-size: 16px; line-height: 1.6;">
+  👋 <strong>Hello! I'm Lorenzo Toledo</strong><br><br>
+  
+  I'm currently a <strong>Data Analysis Intern</strong> at Huawei in Brasília and a <strong>Computer Science student</strong> in my fourth semester. My passion lies in <strong>AI development</strong> and leveraging data to solve real-world problems. I'm always eager to explore new technologies and enhance my skills through hands-on projects.
+  <br><br>
+  🌱 <strong>Learning:</strong> Machine learning, data science, and AI technologies.<br>
+  🔭 <strong>Working on:</strong> AI-based projects that drive impactful solutions.<br>
+  💡 <strong>Interests:</strong> Data analytics, automation, and technology for social good.<br>
+  🎯 <strong>Goal:</strong> Innovate and build meaningful tools using the power of data.<br>
+  🌍 <strong>Location:</strong> Brasília, Brazil
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loooore&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
