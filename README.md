@@ -6,7 +6,7 @@
 <p style="color: #00AB26FF; font-size: 16px; line-height: 1.6;">
   👋 <strong>Hello! I'm Lorenzo Toledo</strong><br><br>
   
-  I'm currently a <strong>Data Analysis Intern</strong> at Huawei in Brasília and a <strong>Computer Science student</strong> in my fourth semester. My passion lies in <strong>AI development</strong> and leveraging data to solve real-world problems. I'm always eager to explore new technologies and enhance my skills through hands-on projects.
+  I'm currently a <strong>Data Analysis Intern</strong> at Huawei in Brasília and a <strong>Computer Science student</strong> in my fourth semester. I'm passionate about <strong>AI development</strong> and leveraging data to solve real-world problems. I'm always eager to explore new technologies and enhance my skills through hands-on projects.
   <br><br>
   🌱 <strong>Learning:</strong> Machine learning, data science, and AI technologies.<br>
   🔭 <strong>Working on:</strong> AI-based projects that drive impactful solutions.<br>
